@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.python-version
+.claude/
+.DS_Store
+
+# Derived artefacts — regenerate by running the notebook
+embeddings.npy
