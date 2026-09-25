@@ -2,7 +2,7 @@
 
 ## Thesis
 
-Can politics be embedded into a vector space? If speeches from different
+Can politics/ideologies be embedded into a vector space? If speeches from different
 parties land in distinguishable regions of a language model's embedding space,
 that space can be used to visualise ideologies and to quantify where a piece of
 text sits between them.
